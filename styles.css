@@ -1,1 +1,24 @@
-/*  your css code here. If applicable */
+div img{
+   width: 250px; 
+   height: 250px;
+}
+
+div{
+    background-color: rgb(241,241,241);
+    border-radius: 2px;
+    max-width:min-content;
+    max-height: min-content;
+    padding: 25px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 1px 1px 15px 1px;
+}
+
+button{
+    color: white;
+    background-color: rgb(254,98,90);
+    border-radius: 6px;
+    border: none;
+    height: 50px;
+    width: 100px;
+}
